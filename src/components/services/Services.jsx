@@ -46,7 +46,7 @@ export const Services = () => {
           <ul className='service__list'>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Unity, Godot and Unreal experience</p>
+            <p>Unity, Godot and Unreal Experierence building</p>
             </li>
       
             <li>
@@ -72,7 +72,7 @@ export const Services = () => {
         </article>
         <article className="service">
           <div className="service__head">
-            <h2>Website Building</h2>
+            <h2>Web Development</h2>
           </div>
           <ul className='service__list'>
             <li>
@@ -82,17 +82,17 @@ export const Services = () => {
 
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Shopify, Woocommerce E-commerce online shops </p>
+            <p>Shopify, Woocommerce E-commerce online shops</p>
             </li>
 
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Infrasracture management: Domain, SSL certificate, login</p>
+            <p>Infrasracture management: Domain, SSL certificate, User security</p>
             </li>
 
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Email distruction list configuration</p>
+            <p>Email distribution list configuration and monitoring</p>
             </li>
 
          

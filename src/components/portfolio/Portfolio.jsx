@@ -11,7 +11,7 @@ const data = [
 {
   id:1,
   image: IMG1,
-  title: 'QB-Puzzle Platformer game',
+  title: 'Puzzle Platformer Game',
   link: 'https://noa-lev.itch.io/qb',
   btntext: 'Play Online'
 },
@@ -25,23 +25,23 @@ const data = [
 {
   id:3,
   image: IMG3,
-  title: 'VR Story experience',
+  title: 'VR Story Experience',
   link: 'https://youtu.be/-H5r-it5c7w',
   btntext: 'Gameplay Video'
 },
 {
   id:4,
   image: IMG4,
-  title: 'Comic book print',
+  title: 'Comic Book Illustration',
   link: 'https://drive.google.com/file/d/1jjN05e6X5UpNIA6t2000KUoeSbsYp6kC/view',
-  btntext: 'View print file'
+  btntext: 'View Print'
 },
 {
   id:5,
   image: IMG5,
-  title: 'Wordpress Website',
+  title: 'Wordpress Elementor',
   link: 'https://magen4u.co.il/',
-  btntext: 'Visit website'
+  btntext: 'Visit Website'
 },
 {
   id:6,

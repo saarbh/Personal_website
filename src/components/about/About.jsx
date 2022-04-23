@@ -9,10 +9,10 @@ const About = () => {
   return (
     <section id='about'>
       <h5 className='.text-light'>
-        What makes me different
+        Why it makes a difference
       </h5>
       <h2 className='.text-light'>
-        working with me
+        Working with me
       </h2>
       <div className="container about__container">
         <div className="about__me">
