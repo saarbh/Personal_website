@@ -22,7 +22,7 @@ const Experience = () => {
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
               <h4>CSS</h4>
-              <small className='text-light'>Intermdiate</small>
+              <small className='text-light'>Experienced</small>
             </div>
           </article> <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
@@ -34,13 +34,13 @@ const Experience = () => {
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
               <h4>React</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermdiate</small>
             </div>
           </article> <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
             <h4>Vue</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'>Intermdiate</small>
             </div>
             
           </article>
@@ -60,7 +60,7 @@ const Experience = () => {
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
             <h4>Unity</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'>Intermdiate</small>
             </div>
           </article>
           <article className='experience__details'>
@@ -74,14 +74,14 @@ const Experience = () => {
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
             <h4>Blender</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'>Intermdiate</small>
             </div>
           </article>
           <article className='experience__details'>
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
             <h4>zBrush</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'>Intermdiate</small>
             </div>
           </article>
         </div>

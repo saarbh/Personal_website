@@ -29,7 +29,7 @@ footer a{
     display: flex;
     justify-content: center;
     gap:1rem;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 
 .footer__socials a{
@@ -47,7 +47,7 @@ footer a{
 }
 
 .footer__copyright{
-    margin-bottom: 4rem;
+    margin-bottom: 6rem;
     color: var(--color-bg)
 }
 

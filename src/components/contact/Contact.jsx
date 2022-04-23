@@ -25,25 +25,25 @@ export const Contact = () => {
   return (
     <section id='contact'>
       <h5>Get in Touch</h5>
-      <h2>Contact Me</h2>
+      <h2>Contact Details</h2>
       <div className="container contact__container">
         <div className="contact__options">
         <article className="contact__option">
           <MdOutlineEmail className='contact__option-icon'/>
           <h4>Email</h4>
-          <h5>saar92@gmail.com</h5>
+          <h3>saar92@gmail.com</h3>
           <a href="mailto:saar92@gmail.com" target="_blank">Send an Email</a>
         </article>  
         <article className="contact__option">
           <MdOutlinePhoneEnabled className='contact__option-icon'/>
-          <h4>Phone</h4>
-          <h5>0548156123</h5>
-          <a href="tel:0548156123" target="_blank">Call me</a>
+          <h4>Mobile</h4>
+          <h3>0548156123</h3>
+          <a href="tel:+972-548156123" target="_blank">Call me</a>
         </article>
         <article className="contact__option">
           <RiMessengerLine className='contact__option-icon'/>
-          <h4>Messenger</h4>
-          <h5>Message Me</h5>
+          <h4>Facebook Messenger</h4>
+          <h3>Message Me</h3>
           <a href="https://m.me/saarbh" target="_blank">Message me</a>
         </article>
         </div>

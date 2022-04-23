@@ -5,102 +5,100 @@ import {BiCheck} from 'react-icons/bi'
 export const Services = () => {
   return (
     <section id='services'>
-      <h5>What I Provide</h5>
-      <h2> Services</h2>
+      <h5>I Do</h5>
+      <h2>Everyday</h2>
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h2>UI/UX Design</h2>
           </div>
           <ul className='service__list'>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Unique user interface</p>
             </li>
       
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Clean clear Understandable user experience</p>
             </li>
          
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Usability and Accesibilty in mind</p>
             </li>
          
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Great passion to details</p>
             </li>
    
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Boasting solid colors</p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Game Design</h3>
+            <h2>Game Design</h2>
           </div>
           <ul className='service__list'>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Unity, Godot and Unreal experience</p>
             </li>
       
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Game Design Document</p>
             </li>
           
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Programming both in C# and Visual scripting</p>
             </li>
      
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Strong visual communication language</p>
             </li>
    
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Multi-platform game support: Android, iOS, PC, VR </p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Website Building</h3>
+            <h2>Website Building</h2>
           </div>
           <ul className='service__list'>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Wix, Elementor and Webflow website design</p>
             </li>
 
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Shopify, Woocommerce E-commerce online shops </p>
             </li>
-
 
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Infrasracture management: Domain, SSL certificate, login</p>
             </li>
-
 
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Email distruction list configuration</p>
             </li>
 
          
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Strengthening your visual indentity in the digital space </p>
             </li>
         </ul>
         </article>

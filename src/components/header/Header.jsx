@@ -9,7 +9,6 @@ export const Header = () => {
     <header>
       <div className="contrainer header__container">
 
-        <h5> Hello I'm</h5>
         <h1> Saar Ben Horin</h1>
         <h5 className='text-light'>Creative Developer</h5>
         

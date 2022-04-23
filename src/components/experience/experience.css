@@ -1,11 +1,11 @@
 .experience__container{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 2rem;
+    gap: 3rem;
 }
 .experience__container > div{
     background: var(--color-bg-variant);
-    padding: 2.4rem 5rem;
+    padding: 2.4rem 18rem;
     border-radius: 5rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -26,7 +26,7 @@
 }
 .experience__content{
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 2fr 2fr;
     row-gap: 1.5rem;
 }
 .experience__details{
@@ -45,7 +45,7 @@
     }
     .experience__container > div{
         width: 80%;
-        padding: 2rem;
+        padding: 3rem;
         margin: 0 auto;
     }
     .experience__content{
@@ -60,7 +60,7 @@
     }
     .experience__container > div{
         width: 100%;
-        padding: 3rem 3rem;
+        padding: 3rem 2rem;
     }
 
   }

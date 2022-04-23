@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import IMG from '../../assets/photo_2019-04-05_19-21-13.jpg'
+import IMG from '../../assets/little_saar.png'
 import {FiAward} from 'react-icons/fi'
 import {FaUsers} from 'react-icons/fa'
 import {MdCheckCircle} from 'react-icons/md'
@@ -12,7 +12,7 @@ const About = () => {
         What makes me different
       </h5>
       <h2 className='.text-light'>
-        Why me
+        working with me
       </h2>
       <div className="container about__container">
         <div className="about__me">
@@ -22,24 +22,29 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
               <FiAward className='about__icon'/>
-              <h5>Experienece</h5>
-              <small>6+ Years IT Experienece</small>
+              <h2>Experienece</h2>
+              <h5>6+ Years IT Experienece</h5>
             </article>
 
             <article className='about__card'>
               <FaUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>Small Medium Business</small>
+              <h2>Clients</h2>
+              <h5>Small Medium Business</h5>
             </article>
 
             <article className='about__card'>
               <MdCheckCircle className='about__icon'/>
-              <h5>Projects</h5>
-              <small>25+ Completed</small>
+              <h2>Projects</h2>
+              <h5>25+ Completed</h5>
             </article>
 
           </div>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic velit ducimus veniam laboriosam deleniti eligendi assumenda, repudiandae aspernatur natus magni dignissimos commodi nemo accusantium, incidunt ullam id quibusdam exercitationem. Optio
+          <p>
+          An IT professional with 6 years of experience in system programing. highly motivated, dynamic and innovative individual with hunger to develop and influence, currently focusing on mastering Unity independent game creation skills.
+Freelance developer & designer while finishing visual communication gaming program in Bezalel arts academy,last year participated in the first founders design program of the school.
+Specialize in game design, video editing and graphic design for both web and print.
+With excellent social skills, preferred working as part of a team, but capable of working independently.
+On my spare time, I enjoy learning arabic and russian languages, and going out traveling, trekking the outdoors.
           </p>
           <div className="btn__holder">
           <a href='#contact' className='btn btn-primary'> Let's talk</a>

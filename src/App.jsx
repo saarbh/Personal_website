@@ -17,7 +17,7 @@ const ImageLoader = () => {
   return <img src={IMG} className="Hero__Image" onLoad={() => parallaxController.update()} />;
 };
 const Image = () => (
-  <Parallax speed={30}>
+  <Parallax speed={15}>
     <ImageLoader />
   </Parallax>
 );
@@ -32,13 +32,14 @@ const App = () => {
         </ParallaxProvider>
 
           <Nav />
+          <Portfolio />
       <About />
 
       <Experience />
 
       <Services />
 
-      <Portfolio />
+      
 
       <Contact />
 

@@ -1,15 +1,15 @@
 nav{
-    background: rgba(38, 48, 38, 0.5);
+    background: rgba(86, 45, 4, 0.5);
     width: max-content;
     display: block;
-    padding: 0.7rem 1.7rem;
+    padding: 1rem 5rem;
     z-index: 2;
     position: fixed;
     left: 50%;
     transform: translateX(-50%);
     bottom: 2.5rem;
     display: flex;
-    gap: 0.8rem;
+    gap: 2rem;
     border-radius: 3rem;
     backdrop-filter: blur(15px);
 }
@@ -20,7 +20,7 @@ nav a{
     border-radius: 50%;
     display: flex;
     color: var(--color-light);
-    font-size: 1.1rem;
+    font-size: 2rem;
 }
 
 nav a:hover{
@@ -29,4 +29,20 @@ nav a:hover{
 nav a.active{
     background: var(--color-bg);
     color: var(--color-white);
+}
+
+/* =================== MEDIA QUERIES (MEDIUM DEVICES) ====================== */
+@media screen and (max-width: 1024px){
+    nav{
+        padding: 1rem 3rem;
+        gap: 0.5rem;
+        bottom: 0.5rem;
+    }
+}
+/* =================== MEDIA QUERIES (SMALL DEVICES) ====================== */
+@media screen and (max-width: 600px){
+    nav{
+        padding: 1rem 3rem;
+    }
+
 }

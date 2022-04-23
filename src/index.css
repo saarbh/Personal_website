@@ -11,12 +11,12 @@
 }
 
 :root {
-  --color-bg: #1f2b12;
-  --color-bg-variant: #292f22;
-  --color-primary: #526938;
-  --color-primary-variant: rgba(141, 169, 106, 0.4);
+  --color-bg: #2b1b12;
+  --color-bg-variant: #2c1b0b;
+  --color-primary: #a97339;
+  --color-primary-variant: rgba(240, 120, 7, 0.4);
   --color-white: #fff;
-  --color-light: rgba(255,255,255, 0.6);
+  --color-light: #977f76;
 
   --transition: all 500ms ease;
   --container-width-lg: 75%;
@@ -122,9 +122,16 @@ img{
   width: 45%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -27rem;
+  margin-top: -54.3rem;
   pointer-events: auto;
   z-index: 0;
+}
+
+/* =================== Large device ====================== */
+@media screen and (max-width: 1920px){
+  .Hero__Image{
+    margin-top: -50rem;
+  }
 }
 
 /* =================== Medium device ====================== */
@@ -136,6 +143,9 @@ img{
   section{
     margin-top: 6rem;
   }
+  .Hero__Image{
+    margin-top: -65rem;
+  }
 }
 /* =================== Small device ====================== */
 @media screen and (max-width: 600px){
@@ -146,8 +156,27 @@ img{
   section > h2{
     margin-bottom: 2rem;
   }
+  .Hero__Image{
+    width: 95%;
+    max-width: 100%;
+    height: 80%;
+  }
 }
+/* =================== Tiny device ====================== */
+@media screen and (max-width: 400px){
+  .container{
+    width: var(--container-width-sm);
+  }
 
+  section > h2{
+    margin-bottom: 1rem;
+  }
+  .Hero__Image{
+    width: 75%;
+    max-width: 100%;
+    height: auto;
+  }
+}
 
 /* ================== LOCOMOTIVE CSS =============*/
 html.has-scroll-smooth {
