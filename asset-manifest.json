@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "https://saarbh.github.io/static/css/main.ed831779.css",
-    "main.js": "https://saarbh.github.io/static/js/main.a0420545.js",
-    "static/js/787.a2cb61a6.chunk.js": "https://saarbh.github.io/static/js/787.a2cb61a6.chunk.js",
-    "static/media/portfolio5.png": "https://saarbh.github.io/static/media/portfolio5.44748b746af929989f62.png",
-    "static/media/portfolio4.png": "https://saarbh.github.io/static/media/portfolio4.c759597d664792e2ebb0.png",
-    "static/media/TransProfile.png": "https://saarbh.github.io/static/media/TransProfile.1670022e44b00d208d9e.png",
-    "static/media/portfolio2.jpg": "https://saarbh.github.io/static/media/portfolio2.9908cbec283035625fa2.jpg",
-    "static/media/portfolio1.jpg": "https://saarbh.github.io/static/media/portfolio1.f841edc49113db98cc8f.jpg",
-    "static/media/portfolio3.jpg": "https://saarbh.github.io/static/media/portfolio3.82c1497097ee5006727c.jpg",
-    "static/media/CV.pdf": "https://saarbh.github.io/static/media/CV.eac624f8581624f6021e.pdf",
-    "static/media/photo_2019-04-05_19-21-13.jpg": "https://saarbh.github.io/static/media/photo_2019-04-05_19-21-13.53e9ae7cf178601ae549.jpg",
-    "static/media/portfolio6.png": "https://saarbh.github.io/static/media/portfolio6.66d16da4f333822acc6c.png",
-    "index.html": "https://saarbh.github.io/index.html",
-    "main.ed831779.css.map": "https://saarbh.github.io/static/css/main.ed831779.css.map",
-    "main.a0420545.js.map": "https://saarbh.github.io/static/js/main.a0420545.js.map",
-    "787.a2cb61a6.chunk.js.map": "https://saarbh.github.io/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "http://saarbh.github.io/static/css/main.ed831779.css",
+    "main.js": "http://saarbh.github.io/static/js/main.c189cbaa.js",
+    "static/js/787.a2cb61a6.chunk.js": "http://saarbh.github.io/static/js/787.a2cb61a6.chunk.js",
+    "static/media/portfolio5.png": "http://saarbh.github.io/static/media/portfolio5.44748b746af929989f62.png",
+    "static/media/portfolio4.png": "http://saarbh.github.io/static/media/portfolio4.c759597d664792e2ebb0.png",
+    "static/media/TransProfile.png": "http://saarbh.github.io/static/media/TransProfile.1670022e44b00d208d9e.png",
+    "static/media/portfolio2.jpg": "http://saarbh.github.io/static/media/portfolio2.9908cbec283035625fa2.jpg",
+    "static/media/portfolio1.jpg": "http://saarbh.github.io/static/media/portfolio1.f841edc49113db98cc8f.jpg",
+    "static/media/portfolio3.jpg": "http://saarbh.github.io/static/media/portfolio3.82c1497097ee5006727c.jpg",
+    "static/media/CV.pdf": "http://saarbh.github.io/static/media/CV.eac624f8581624f6021e.pdf",
+    "static/media/photo_2019-04-05_19-21-13.jpg": "http://saarbh.github.io/static/media/photo_2019-04-05_19-21-13.53e9ae7cf178601ae549.jpg",
+    "static/media/portfolio6.png": "http://saarbh.github.io/static/media/portfolio6.66d16da4f333822acc6c.png",
+    "index.html": "http://saarbh.github.io/index.html",
+    "main.ed831779.css.map": "http://saarbh.github.io/static/css/main.ed831779.css.map",
+    "main.c189cbaa.js.map": "http://saarbh.github.io/static/js/main.c189cbaa.js.map",
+    "787.a2cb61a6.chunk.js.map": "http://saarbh.github.io/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed831779.css",
-    "static/js/main.a0420545.js"
+    "static/js/main.c189cbaa.js"
   ]
 }
