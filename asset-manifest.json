@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://saarbh.art/static/css/main.1cd1cd4e.css",
-    "main.js": "https://saarbh.art/static/js/main.fd5d931e.js",
+    "main.css": "https://saarbh.art/static/css/main.e46e721a.css",
+    "main.js": "https://saarbh.art/static/js/main.eb37cf5d.js",
     "static/js/787.a2cb61a6.chunk.js": "https://saarbh.art/static/js/787.a2cb61a6.chunk.js",
     "static/media/portfolio5.png": "https://saarbh.art/static/media/portfolio5.44748b746af929989f62.png",
     "static/media/portfolio4.png": "https://saarbh.art/static/media/portfolio4.c759597d664792e2ebb0.png",
@@ -12,13 +12,14 @@
     "static/media/portfolio3.jpg": "https://saarbh.art/static/media/portfolio3.82c1497097ee5006727c.jpg",
     "static/media/CV.pdf": "https://saarbh.art/static/media/CV.eac624f8581624f6021e.pdf",
     "static/media/portfolio6.jpg": "https://saarbh.art/static/media/portfolio6.1da8d9d478b697b80a47.jpg",
+    "static/media/NHaasGroteskTXPro-55Rg.woff": "https://saarbh.art/static/media/NHaasGroteskTXPro-55Rg.46f4af32ebabd3911a4e.woff",
     "index.html": "https://saarbh.art/index.html",
-    "main.1cd1cd4e.css.map": "https://saarbh.art/static/css/main.1cd1cd4e.css.map",
-    "main.fd5d931e.js.map": "https://saarbh.art/static/js/main.fd5d931e.js.map",
+    "main.e46e721a.css.map": "https://saarbh.art/static/css/main.e46e721a.css.map",
+    "main.eb37cf5d.js.map": "https://saarbh.art/static/js/main.eb37cf5d.js.map",
     "787.a2cb61a6.chunk.js.map": "https://saarbh.art/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cd1cd4e.css",
-    "static/js/main.fd5d931e.js"
+    "static/css/main.e46e721a.css",
+    "static/js/main.eb37cf5d.js"
   ]
 }
